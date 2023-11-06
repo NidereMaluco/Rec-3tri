@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.botao{
+    width: 420;
+    height: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(255, 255, 255);
+    color: darkorange;
+    font-family: inherit;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 4px 4px 0px #000000;
+    transform:  200ms ease-in-out;
+    border: none;
+    background-position: center;
+}
+button:hover {
+    transform: scale(1.05);
+}
+h1 {
+    display: flex;
+    color: darkorange; 
+    background-position: center;
+}
+.saci{
+    background-color: #000000;
+}
+h2 {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    color: darkorange;
+    background-position: center;
+}
+
+.interessados{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    color: darkorange;
+    background-position: center;
+}    
